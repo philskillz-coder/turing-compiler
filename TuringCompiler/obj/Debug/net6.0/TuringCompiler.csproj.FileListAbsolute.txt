@@ -1,0 +1,14 @@
+C:\Users\Philskillz\source\repos\TuringCompiler\TuringCompiler\bin\Debug\net6.0\TuringCompiler.exe
+C:\Users\Philskillz\source\repos\TuringCompiler\TuringCompiler\bin\Debug\net6.0\TuringCompiler.deps.json
+C:\Users\Philskillz\source\repos\TuringCompiler\TuringCompiler\bin\Debug\net6.0\TuringCompiler.runtimeconfig.json
+C:\Users\Philskillz\source\repos\TuringCompiler\TuringCompiler\bin\Debug\net6.0\TuringCompiler.dll
+C:\Users\Philskillz\source\repos\TuringCompiler\TuringCompiler\bin\Debug\net6.0\TuringCompiler.pdb
+C:\Users\Philskillz\source\repos\TuringCompiler\TuringCompiler\obj\Debug\net6.0\TuringCompiler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Philskillz\source\repos\TuringCompiler\TuringCompiler\obj\Debug\net6.0\TuringCompiler.AssemblyInfoInputs.cache
+C:\Users\Philskillz\source\repos\TuringCompiler\TuringCompiler\obj\Debug\net6.0\TuringCompiler.AssemblyInfo.cs
+C:\Users\Philskillz\source\repos\TuringCompiler\TuringCompiler\obj\Debug\net6.0\TuringCompiler.csproj.CoreCompileInputs.cache
+C:\Users\Philskillz\source\repos\TuringCompiler\TuringCompiler\obj\Debug\net6.0\TuringCompiler.dll
+C:\Users\Philskillz\source\repos\TuringCompiler\TuringCompiler\obj\Debug\net6.0\refint\TuringCompiler.dll
+C:\Users\Philskillz\source\repos\TuringCompiler\TuringCompiler\obj\Debug\net6.0\TuringCompiler.pdb
+C:\Users\Philskillz\source\repos\TuringCompiler\TuringCompiler\obj\Debug\net6.0\TuringCompiler.genruntimeconfig.cache
+C:\Users\Philskillz\source\repos\TuringCompiler\TuringCompiler\obj\Debug\net6.0\ref\TuringCompiler.dll
